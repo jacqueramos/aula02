@@ -1,6 +1,6 @@
 nav
 {
-    background-color: blue;
+    background-color:black;
 }
 
 header
@@ -22,4 +22,8 @@ ul
 li
 {
     display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(114, 235, 174);
+    
 }
+
